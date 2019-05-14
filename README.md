@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Chat app to exchange with yours friends.
 
-Things you may want to cover:
+You need to:
 
-* Ruby version
+`git clone` <br>
+`bundle install` <br>
+`rails s`  || `rails server`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
